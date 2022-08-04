@@ -9,3 +9,6 @@ I am up for the 30 Day Challenge. Each folder consists the dataset and codes rel
 ## Created a lollipop chart on the Top 10 TV Shows of All Time
 ### The two red dots are the only shows that I have seen. 
 ![image](https://user-images.githubusercontent.com/71402093/162611705-195fa1f3-c0a9-4f83-93fe-09707c4ffc7a.png)
+#Day 3: Historical: Looking at the Number of PPL Died of Mass Shooting in 5 American States From 2010-2022
+## Texas had the highest number of death due to mass shooting in 2019
+![image](https://user-images.githubusercontent.com/71402093/182760651-24f5ea17-1324-4388-b67a-9f49b58d7821.png)
